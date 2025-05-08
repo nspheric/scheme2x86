@@ -8,6 +8,7 @@ it can be improved in several ways, namely:
 - I can use a DAG of blocks, which are also DAGs, for the backend
 - the way i tested the code should have been different, namely, for each ast node test its corresponding x86 code instead of testing chunk of code.
 - And i can do optimizations
+  
 this compiler was a nice project to give me a feeling of how to write a compiler in c++.
 
 ### running the code
